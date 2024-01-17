@@ -1,1 +1,2 @@
 display_name, notebook_name, roboflow_blogpost_path, youtube_video_path, github_repository_path, arxiv_index, readme_section
+DINOv2, dinov2-classification.ipynb, "", "", "", "", models

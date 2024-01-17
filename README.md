@@ -33,9 +33,10 @@ Welcome to the world of Computer Vision! Today, we embark on this GitHub repo to
    WARNING: DO NOT EDIT THIS TABLE MANUALLY. IT IS AUTOMATICALLY GENERATED.
    HEAD OVER TO CONTRIBUTING.MD FOR MORE DETAILS ON HOW TO MAKE CHANGES PROPERLY.
 -->
-## Model Experiments (0 notebooks)
+## Model Experiments (1 notebooks)
 | **notebook** | **colab / kaggle** | **blog / youtube** | **repository / paper** |
 |:------------:|:-------------------------------------------------:|:---------------------------:|:----------------------:|
+| [DINOv2](https://github.com/roboflow-ai/notebooks/blob/main/notebooks/dinov2-classification.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/dinov2-classification.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/roboflow-ai/notebooks/blob/main/notebooks/dinov2-classification.ipynb) | [![Roboflow](https://raw.githubusercontent.com/roboflow-ai/notebooks/main/assets/badges/roboflow-blogpost.svg)]("") [![YouTube](https://badges.aleen42.com/src/youtube.svg)]("") | [![GitHub](https://badges.aleen42.com/src/github.svg)]("") [![arXiv](https://img.shields.io/badge/arXiv-""-b31b1b.svg)](https://arxiv.org/abs/"")|
 ## Applied computer vision in real world scenarios (0 notebooks)
 | **notebook** | **colab / kaggle** | **blog / youtube** | **repository / paper** |
 |:------------:|:-------------------------------------------------:|:---------------------------:|:----------------------:|
